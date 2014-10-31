@@ -1,0 +1,1 @@
+This program generates polygons with a randum number of sides and random (x,y) coordinates. If they are contained within the "test" polygon defined at the beginning, they are kept on screen. The shape eventually will be filled in with polygons.
